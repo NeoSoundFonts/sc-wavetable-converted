@@ -1,0 +1,1 @@
+Samples that only author explicitly licensed under CC0/Public Domain to be converted.

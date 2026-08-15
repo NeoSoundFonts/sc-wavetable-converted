@@ -1,3 +1,7 @@
+# 2026-08-15
+
+- Added two Trombone wavetables.
+
 # 2026-08-14
 
 - Added two Electric Guitar wavetables.
